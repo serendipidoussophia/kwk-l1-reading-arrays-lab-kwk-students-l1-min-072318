@@ -20,6 +20,7 @@ puts STUDENT_NAMES[3]
 def last_student_by_index
   # Write a solution that returns the first student in the array student_names
 end
+puts STUDENT_NAME
 
 def first_student_by_method
   # Write a solution that returns the first student using the built in .first method
