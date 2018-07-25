@@ -10,12 +10,12 @@ STUDENT_NAMES = [
 def first_student_by_index
   # Write a solution that returns the first student in the array student_names
 end
-puts STUDENT_NAMES[0]
+print STUDENT_NAMES[0]
 
 def fourth_student_by_index
   # Write a solution that returns the first student in the array student_names
 end
-puts STUDENT_NAMES[3]
+print STUDENT_NAMES[3]
 
 def last_student_by_index
   # Write a solution that returns the first student in the array student_names
